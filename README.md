@@ -1,3 +1,6 @@
-# netflix__clone
+# Netflix Website Clone
+- HTML
+- CSS
 
-https://panchenkonazar.github.io/netflix__clone/
+Can you view [my project](https://panchenkonaz.github.io/netflix__clone/)
+
